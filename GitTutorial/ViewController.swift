@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Hello")
         print("changed")
+        print("Pulled and changed")
+        print("Branch from mapView")
     }
 
     override func didReceiveMemoryWarning() {
